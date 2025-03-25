@@ -160,20 +160,6 @@ function TaskManager() {
                         <FaPlus className='m-2' />
                     </button>
                 </div>
-
-                <div className='input-group flex-grow-1'>
-                    <span
-                        className='input-group-text'
-                    >
-                        <FaSearch />
-                    </span>
-                    <input
-                        onChange={handleSearch}
-                        className='form-control'
-                        type='text'
-                        placeholder='Search tasks'
-                    />
-                </div>
             </div>
 
             {/* List of items */}
