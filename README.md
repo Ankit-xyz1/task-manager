@@ -48,7 +48,7 @@ The server will run on `http://localhost:3000` (default port).
          "title": "Buy groceries",
          "status": "completed"
        }
-     ]
+     ] xyzzz
      ```
 
 ### 2. Create a Task
